@@ -1,5 +1,7 @@
 Build a Tournament Management System
 
+Postman Endpoint API Documentation Link : https://documenter.getpostman.com/view/29389936/2sA3XJnRE9
+
 Please run the server with command "python manage.py runserver"
 please start celery with commanad "celery -A TMS worker --loglevel=INFO --pool=solo"
 
